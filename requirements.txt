@@ -1,3 +1,5 @@
 django
 rest_framework
 python-dotenv
+gunicorn
+psycopg2-binary
